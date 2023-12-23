@@ -4,7 +4,8 @@
 [![issues](https://img.shields.io/github/issues/al-one/hass-xiaomi-miot)](https://github.com/al-one/hass-xiaomi-miot/issues)
 [![HACS](https://img.shields.io/badge/HACS-Default-orange.svg)](https://hacs.xyz)
 
-# Xiaomi Miot For HomeAssistant
+# Xiaomi Miot For HomeAssistant modify by MonsterE
+- forked from [al-one/hass-xiaomi-miot](https://github.com/al-one/hass-xiaomi-miot)
 
 English | [简体中文](https://github.com/al-one/hass-xiaomi-miot/blob/master/README_zh.md)
 
