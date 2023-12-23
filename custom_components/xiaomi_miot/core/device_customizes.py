@@ -1214,6 +1214,9 @@ DEVICE_CUSTOMIZES = {
         'button_actions': 'wake_up,play_music,tv_switchon,stop_alarm',
         'text_actions': 'play_text,execute_text_directive',
     },
+    'xiaomi.gateway.hub1': {
+        'sensor_properties': 'ip_address,wifi_ssid',
+    },
     'xjx.toilet.relaxp': {
         'sensor_properties': 'status',
         'switch_properties': 'status_seatheat,status_led,auto_led,switch_bubble,status_seat,status_cover,'
